@@ -1,4 +1,17 @@
-/*
+const birthYear=1952;
+const thisYear=1962;
+const firstName=John;
+const lastName=Smith;
+const greeting= "Hello my name is "+firstName+"  "+lastName+"
+and I am "+(thisYear- birthYear)+" "years old.";
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /*
  First name: Carlos
  Last name: Stevenson
  This year: 1965
