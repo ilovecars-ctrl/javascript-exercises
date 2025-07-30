@@ -2,8 +2,9 @@ const birthYear=1952;
 const thisYear=1962;
 const firstName=John;
 const lastName=Smith;
-const greeting= "Hello my name is "+firstName+"  "+lastName+"
-and I am "+(thisYear- birthYear)+" "years old.";
+const Age="thisYear-birthYear";
+const fullName="firstName+lastName";
+const greeting= "Hello my name is "+fullName+" and I am "+Age+" years old.";
  
  
  
